@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B215481624AE4D91008E6F87 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B215481524AE4D91008E6F87 /* ConstantsTemplate.swift */; };
 		B22967EA24AA3ECF00BF9C02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22967E924AA3ECF00BF9C02 /* AppDelegate.swift */; };
 		B22967EC24AA3ECF00BF9C02 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22967EB24AA3ECF00BF9C02 /* SceneDelegate.swift */; };
 		B22967EE24AA3ECF00BF9C02 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22967ED24AA3ECF00BF9C02 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B215481524AE4D91008E6F87 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		B22967E624AA3ECF00BF9C02 /* youtube-onedaybuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-onedaybuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B22967E924AA3ECF00BF9C02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B22967EB24AA3ECF00BF9C02 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				B2C740A124ABA2C200B45B12 /* Videos.swift */,
 				B2C740A324ABA37300B45B12 /* Model.swift */,
 				B2F3862924ACF4E300A4B020 /* Response.swift */,
+				B215481524AE4D91008E6F87 /* ConstantsTemplate.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				B22967EE24AA3ECF00BF9C02 /* ViewController.swift in Sources */,
 				B22967EA24AA3ECF00BF9C02 /* AppDelegate.swift in Sources */,
 				B22967EC24AA3ECF00BF9C02 /* SceneDelegate.swift in Sources */,
+				B215481624AE4D91008E6F87 /* ConstantsTemplate.swift in Sources */,
 				B2C740A424ABA37300B45B12 /* Model.swift in Sources */,
 				B2C740A224ABA2C200B45B12 /* Videos.swift in Sources */,
 				B2C740A024AB9F5E00B45B12 /* Constants.swift in Sources */,
